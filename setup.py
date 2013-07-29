@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-	name='lightplayground',
+	name='lightplay',
 	version='1.0dev',
-	packages=['lightplayground',],
+	packages=['lightplay',],
 	license='BSD or something',
 	long_description=open('README.md').read(),
 )
